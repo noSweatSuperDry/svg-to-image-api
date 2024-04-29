@@ -1,0 +1,1 @@
+Use VSCode and Azure plugins to upload this Azure Functions

@@ -1,0 +1,12 @@
+{
+  "name": "svg-to-img-api",
+  "version": "1.0.0",
+  "description": "Building a Serverless API with Azure Functions",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "svg-to-img": "^2.0.9"
+  }
+}
